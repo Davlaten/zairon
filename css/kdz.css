@@ -1,6 +1,9 @@
 body {
 background-color: azure;
 }
+.p1{
+    margin: 0;
+}
 header{
 background-color: aliceblue;
 text-align: left;
