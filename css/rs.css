@@ -1,0 +1,37 @@
+body {
+background-color: azure;
+}
+header{
+background-color: aliceblue;
+text-align: left;
+
+
+}
+
+section1 {
+background-color: azure;
+text-align: left;
+
+}
+section {
+background-color: azure;
+text-align: left;
+
+}
+footer{
+background-color: azure;
+text-align: left;
+
+}
+a{
+color: blue;
+margin: 25px;
+text-decoration: blue;
+
+}
+footer1{
+text-align: center;
+color: dimgrey;
+font-size: small;
+
+}
