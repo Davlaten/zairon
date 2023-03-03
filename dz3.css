@@ -1,0 +1,34 @@
+#winter li{
+    list-style-image: url(img/snezh1.jpg);
+
+}
+#spring li{
+    list-style-image: url(img/zv.png);
+}
+#summer li{
+    list-style-image: url(img/arb.jpg);
+}
+#autumn li{
+    list-style-image: url(img/klen.jpg);
+}
+
+#winter{
+    list-style-image: url(img/sta.png);
+
+}
+#spring{
+    list-style-image: url(img/sta.png);
+
+}
+#summer{
+    list-style-image: url(img/sta.png);
+
+}
+#autumn{
+    list-style-image: url(img/sta.png);
+
+}
+body{
+    font-family: Arial;
+    font-size: 125%;
+}
